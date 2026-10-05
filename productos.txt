@@ -1,4 +1,8 @@
 Chupetines
 Caramelos
 Chocolates
-Pan
+<<<<<<< HEAD
+=======
+Chocolates blancos
+>>>>>>> b5495a7b26d618c1d76f1a74117ecc70162478fc
+pan
